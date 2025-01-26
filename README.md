@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, bug in C programming related to pointer arithmetic and memory management. The main file, `bug.c`, contains the buggy code.  The `bugSolution.c` provides a corrected version demonstrating safer memory handling techniques. This bug highlights the importance of robust error checking and careful pointer manipulation in C.
